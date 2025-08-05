@@ -28,4 +28,4 @@ A simple Minecraft plugin that allows custom cooldowns for shields using `Custom
 - /shield_see_cd inhand or /shield_see_cd 1234
 
 ##  🚩 Suggestions
-Feel free to make any suggestion and report thing you would like me to change/upgrade
+Feel free to make any suggestion and report thing you would like me to change/upgrade.
