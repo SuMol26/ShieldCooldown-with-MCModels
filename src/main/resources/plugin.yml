@@ -1,0 +1,13 @@
+name: ShieldCooldown
+author: SuMol91
+main: com.example.shield_cooldown.ShieldCooldownPlugin
+version: 1.0
+api-version: 1.19
+commands:
+  shield_set_cd:
+    description: Définit un cooldown sur un bouclier
+    usage: /shield_set_cd <id|inhand> <secondes>
+  shield_id:
+    description: Affiche l'ID du bouclier en main
+  shield_see_cd:
+    description: Affiche le cooldown actuel du bouclier en main
