@@ -29,5 +29,3 @@ A simple Minecraft plugin that allows custom cooldowns for shields using `Custom
 
 ##  🚩 Suggestions
 Feel free to make any suggestion and report thing you would like me to change/upgrade
-
-### PS: This plugin was entirely made with AI. I am not a dev, just a prompt seeker.

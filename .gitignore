@@ -13,6 +13,18 @@
 *.tmp
 *.class
 
+# Gradle
+.gradle/
+build/
+
+# IntelliJ
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
 # OS-specific files
 .DS_Store
 Thumbs.db
